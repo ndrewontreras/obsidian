@@ -25,12 +25,14 @@
             "id": "f4d2b4f3b5f704dc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.5"
+                "file": "Indexes/git test.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "git test"
             }
           }
         ],
@@ -167,13 +169,23 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "0732ebdd7f24b079",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,11 +194,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4d2b4f3b5f704dc",
+  "active": "82d6cfde28be1ae2",
   "lastOpenFiles": [
+    "2 - Source Material/CS/Courses/CS50/Week 0 - Intro to Scratch.md",
+    "Indexes/git test.md",
     "2 - Source Material/CS/Courses/CS50/Week 1 - C.md",
     "2 - Source Material/CS/Text/Linux/Text/The Linux Command Line by William Shots.md",
     "2 - Source Material/CS/Text/Concepts of Programming Languages, Robert Sebesta/Chapter 3 Describing syntax and semantics.md",
@@ -196,7 +212,6 @@
     "1 - Main Notes/NJIT undergrad/CS/280",
     "1 - Main Notes/NJIT undergrad/CS",
     "1 - Main Notes/NJIT undergrad",
-    "2 - Source Material/CS/Courses/CS50/Week 0 - Intro to Scratch.md",
     "1 - Main Notes/CS/Andrew's Sudoku Solver.md",
     "1 - Main Notes/CS/Untitled.md",
     "1 - Main Notes/CS/Andrew's Calculator.md",
@@ -216,7 +231,6 @@
     "Tags/README.md",
     "2 - Source Material/README.md",
     "2 - Source Material/Hibernate Crash Course Video.md",
-    "1 - Rough Notes/README.md",
     "2 - Source Material/Obsidian",
     "1 - Main Notes/Skills/Tech",
     "1 - Main Notes/Skills",
