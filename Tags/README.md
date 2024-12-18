@@ -1,0 +1,1 @@
+ This directory contains the "tags" that help create topics that are points of interest. Create tags that are specific, not too specific yet not vague. Search through similar notes to add forgotten tags. Avoid using no more than 5 tags per note.

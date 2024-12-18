@@ -1,0 +1,1 @@
+Tags note/work as original work by Andrew, no resources

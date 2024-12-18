@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "69f75da34ede9a93",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdb3646112270df6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "790ae0969d1a8b97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Material/CS/Text/Concepts of Programming Languages, Robert Sebesta/Chapter 3 Describing syntax and semantics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 3 Describing syntax and semantics"
+            }
+          },
+          {
+            "id": "f4d2b4f3b5f704dc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7b386e920d911d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4661e87221458db9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82d6cfde28be1ae2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "432c5aff031ebf79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "353135dfd199440a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "589f0b101b87d9cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "2090cef93749ed52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2672852abf1570da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 - Source Material/CS/Text/Concepts of Programming Languages, Robert Sebesta/Chapter 3 Describing syntax and semantics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chapter 3 Describing syntax and semantics"
+            }
+          },
+          {
+            "id": "6cd3449e7e4c996e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "506082d42e760c54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 - Source Material/CS/Text/Concepts of Programming Languages, Robert Sebesta/Chapter 3 Describing syntax and semantics.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chapter 3 Describing syntax and semantics"
+            }
+          },
+          {
+            "id": "cec92b6c799355f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 - Source Material/CS/Text/Concepts of Programming Languages, Robert Sebesta/Chapter 3 Describing syntax and semantics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Chapter 3 Describing syntax and semantics"
+            }
+          },
+          {
+            "id": "5d6b5ed667020a78",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f4d2b4f3b5f704dc",
+  "lastOpenFiles": [
+    "2 - Source Material/CS/Courses/CS50/Week 1 - C.md",
+    "2 - Source Material/CS/Text/Linux/Text/The Linux Command Line by William Shots.md",
+    "2 - Source Material/CS/Text/Concepts of Programming Languages, Robert Sebesta/Chapter 3 Describing syntax and semantics.md",
+    "2 - Source Material/CS/Text/Computer Organization and Design (Patterson, Hennessy)/Great Ideas in Computer Architecture.md",
+    "2 - Source Material/CS/Text/Concepts of Programming Languages, Robert Sebesta",
+    "2 - Source Material/NJIT undergrad/CS/Untitled.md",
+    "1 - Main Notes/NJIT undergrad/CS/280",
+    "1 - Main Notes/NJIT undergrad/CS",
+    "1 - Main Notes/NJIT undergrad",
+    "2 - Source Material/CS/Courses/CS50/Week 0 - Intro to Scratch.md",
+    "1 - Main Notes/CS/Andrew's Sudoku Solver.md",
+    "1 - Main Notes/CS/Untitled.md",
+    "1 - Main Notes/CS/Andrew's Calculator.md",
+    "Tags/personal project.md",
+    "Tags/original.md",
+    "Tags/Java.md",
+    "1 - Main Notes/README.md",
+    "Tags/Spring Boot.md",
+    "2 - Source Material/Linux Terminal commands.md",
+    "Indexes/Dynamic Memory Allocation -- C++ Pointers Tutorial.md",
+    "2 - Source Material/CS/AI/Chat GPT/Weather API Project Step One.md",
+    "2 - Source Material/CS/AI/Chat GPT/Spring Boot Weather API Planning.md",
+    "2 - Source Material/CS/AI/Chat GPT/Spring Boot project-based learning benefits.md",
+    "2 - Source Material/CS/AI/Chat GPT/Spring Boot API Example List and Tutorial.md",
+    "2 - Source Material/CS/AI/Chat GPT/Business Logic Explained.md",
+    "Tags/Book Recommendation.md",
+    "Tags/README.md",
+    "2 - Source Material/README.md",
+    "2 - Source Material/Hibernate Crash Course Video.md",
+    "1 - Rough Notes/README.md",
+    "2 - Source Material/Obsidian",
+    "1 - Main Notes/Skills/Tech",
+    "1 - Main Notes/Skills",
+    "1 - Main Notes/CS",
+    "1 - Main Notes/Personal/Journal",
+    "1 - Main Notes/Pregnancy"
+  ]
+}

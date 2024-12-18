@@ -1,0 +1,1 @@
+Use this directory for summing up key point/ideas from other sources, mainly from the *Source Material* directory. 
